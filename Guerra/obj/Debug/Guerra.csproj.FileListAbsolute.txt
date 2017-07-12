@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\bin\Debug\Guerra.exe.config
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\bin\Debug\Guerra.exe
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\bin\Debug\Guerra.pdb
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\obj\Debug\Guerra.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\obj\Debug\Guerra.Form1.resources
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\obj\Debug\Guerra.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\obj\Debug\Guerra.csproj.GenerateResource.Cache
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\obj\Debug\Guerra.exe
+c:\users\jon\documents\visual studio 2012\Projects\Guerra\Guerra\obj\Debug\Guerra.pdb
